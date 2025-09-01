@@ -1,5 +1,6 @@
-streamlit>=1.26.0
+streamlit
+streamlit-option-menu
+scikit-learn
 pandas
 numpy
-scikit-learn
 joblib
