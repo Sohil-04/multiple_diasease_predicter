@@ -63,3 +63,4 @@ if (selected == "heart disease prediction"):
             st.success("The person is likely to have heart disease.")
         else:
             st.success("The person is likely healthy.")
+
